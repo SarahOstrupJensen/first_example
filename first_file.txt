@@ -1,3 +1,7 @@
 This is the content of my first file.
 
 I am going to add my paragraph here so that I fix my issue.
+
+
+
+When I have added the clinical info to my data I will document it in this file
